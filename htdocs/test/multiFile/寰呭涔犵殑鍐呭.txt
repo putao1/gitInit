@@ -1,0 +1,16 @@
+http://www.runoob.com/linux/linux-shell-include-file.html  shell
+http://www.linuxidc.com/Linux/2015-11/124989.htm  linux命令行艺术
+数据库和权限相关的（微信 实践）
+
+http://www.regexlab.com/zh/regref.htm 正则表达式
+cut awk sed grep
+
+http://www.cnblogs.com/end/archive/2012/02/21/2360965.html
+
+
+samba phpstorm phpstudy安装 
+数据库操作的部分
+
+监控
+
+登录的时候，是否需要root用户 或者 需要制定用户名或者密码吗

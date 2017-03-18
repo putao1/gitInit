@@ -1,0 +1,10 @@
+<?php
+session_start();
+//var_dump($_SESSION);
+//var_dump(session_id());
+//die();
+unset($_SESSION['user']);
+unset($_SESSION['pwd']);
+session_destroy();
+header('location:login2.php');
+?>

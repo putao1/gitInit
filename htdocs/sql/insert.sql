@@ -1,0 +1,1 @@
+insert into `tb_shop`(`mingcheng`,`jianjie`,`addtime`,`dengji`,`xinghao`,`tupian`,`shuliang`,`typeid`,`huiyuan`,`pinpai`) values('cake','food','2017-2-07','bj','xuehuo','pic','4','2','zhekou','good');
